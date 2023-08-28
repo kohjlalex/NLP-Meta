@@ -1,14 +1,12 @@
-## Getting Started
-This is a repo that contains data scrapped from Meta pages of Singapore's two biggest Real Estate companies, PropertyGuruSg and 99dotco, as well as the NLP analysis done on them.
+# Background
+Our real estate client, PFS, is facing increasing competition and losing market share to their closest competitors Properygurusg and 99dotco) who are more savvy in navigating the online social media space.
 
-# Data scrapped from Meta Pages
-Text data in the form of Meta posts were scrapped using the .py file found in [/directory]. You may also download the data files directly from the folder []
+# Business Objectives:
+Our client wants to better understand their competitors’ online activities on Meta & how to compete more effectively in the online space, with the overarching goal of being able to present better service & remain the top choice for existing and potential clients
 
-# Text Analysis was then carried out on the textual data to uncover 4 main objectives:
-1) Frequency of competitor's posts 
-2) The hashtags used for competitors' posts that had the highest reach
-3) Topic Modelling to find out the common topics that competitors were posting about
-4) Heatmap based on the frequency that the MRT stations appear in competitor's posts
-
-# Findings
-Please refer to the document [findings] for a summary of the findings
+# Deliverables:
+1.	Visualisation of frequency of competitor's posts
+2.	Summary of the hashtags used for competitors' posts that had the highest reach
+3.	List of common topics that competitors were posting about via Topic Modelling
+4.	Heatmap based on the frequency that the MRT stations appeared in competitor's posts
+5.	A data-driven, month-long social media calendar for our client that accounts for the activities of their online competitors. Do note that the findings from other ongoing projects (not included here) such as sentiment analysis from online forums (HardwareZone and Reddit) were also incorporated into the making of this calendar.
