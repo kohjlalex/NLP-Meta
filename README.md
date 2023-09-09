@@ -10,3 +10,5 @@ Our client wants to better understand their competitors’ online activities on 
 3.	List of common topics that competitors were posting about via Topic Modelling
 4.	Heatmap based on the frequency that the MRT stations appeared in competitor's posts
 5.	A data-driven, month-long social media calendar for our client that accounts for the activities of their online competitors. Do note that the findings from other ongoing projects (not included here) such as sentiment analysis from online forums (HardwareZone and Reddit) were also incorporated into the making of this calendar.
+
+Download the "Deliverables.docx" for screen captures of our findings
